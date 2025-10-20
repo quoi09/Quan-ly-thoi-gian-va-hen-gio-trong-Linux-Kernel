@@ -78,7 +78,8 @@ Bởi vì việc thay đổi scheduler policy (SCHED_FIFO) yêu cầu quyền ca
 
 sudo ./fifo
 
-Bước 5: Kết quả 
+Bước 5: Kết quả ví dụ
+
 <img width="665" height="435" alt="image" src="https://github.com/user-attachments/assets/067290ab-831f-46f5-ae03-d3afe39b9c61" />
 <img width="678" height="406" alt="image" src="https://github.com/user-attachments/assets/31bfa60a-40f3-4609-ab6a-0a1e5a2295a0" />
 
